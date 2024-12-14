@@ -1,2 +1,1 @@
-# adguard_sync
-Adguard sync basic config
+a basic config file for adguard sync
